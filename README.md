@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+>### Date created
+>
+>09 Sept 2022
+>
+>### Project Title
+>
+>US Bike share 
+>
+>### Description
+>
+>Analysis of bike based on day ,month and city .This program take 3 input from user city name (Chicago, New York and Washington ) Month (January, February , March , April , May, June) and Day which day from 1 to 7.
+>
+>### Tools
+>
+>Python
